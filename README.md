@@ -1,1 +1,1 @@
-# MinimalAPI
+# MinimalAPI With Jwt and Redis Integration.
