@@ -13,7 +13,7 @@ public class TokenService : ITokenService
 
         return "";
     }
-    private bool ValidUser(UserModel user)
+    public bool ValidUser(UserModel user)
     {
         if (user.Username == "erdal" && user.Password == "erdal123")
             return true;
